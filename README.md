@@ -1,4 +1,4 @@
-# Utubemarker(CS50x FInal Project)
+# Utubemarker(CS50x Final Project)
 
 Requirements
 
